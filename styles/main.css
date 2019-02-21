@@ -19,11 +19,11 @@ body{
 }
 #welcome{
     position: relative;
-    bottom:120px;
-    left:200px;
+    bottom:100px;
+    left:50px;
     color:#01babc;
 }
-h3{
+h4{
     margin:0;
 }
 
@@ -124,8 +124,8 @@ a{
 }
 #wanna{
     position:relative;
-    top: 150px;
-    left:50px;
+    top: 170px;
+    left:30px;
     color:#01babc;
 }
 
