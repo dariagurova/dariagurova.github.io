@@ -15,7 +15,7 @@ body{
 
 #face{
     width:100%;
-    max-height:500px;
+    
 }
 #welcome{
     position: relative;
@@ -178,3 +178,51 @@ a{
 *************************
 -------------------------*/
 
+@media only screen and (min-width: 768px){
+    
+    .links{
+        flex-direction: row;
+        justify-content: space-around;
+        height:250px;
+        width:80%;
+        margin:auto;
+    }
+    .wrap img{
+        width:100%;
+        margin-top: 50px;
+    }
+    .wrap{
+        width:80%;
+        margin:auto;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 100px;
+    }
+    .line{
+        margin-top:50px;
+    }
+    
+    .minigrid{
+        grid-template-columns: 1fr 1fr;
+    }
+    #require{
+        height:100%;
+    }
+    #footer{
+        height:150px;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .address,
+    .contact,
+    .menu{
+    
+        place-self:center;
+        
+    }
+    #welcome h4,
+    #team h4{
+        font-size: 1.4rem;
+    }
+    
+  
+    
+}
