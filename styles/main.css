@@ -107,7 +107,7 @@ a{
 #require h2{
     margin:0;
     padding-left: 5%;
-    font-size: 18px;
+    
 }
 .wline{
     background-color:white;
@@ -118,9 +118,6 @@ a{
     list-style: none;
     line-height: 40px;
     padding: 5%; 
-}
-#require ul li{
-    font-size:15px;
 }
 
 #team img{
@@ -227,7 +224,7 @@ ul{
     }
     #welcome h4,
     #team h4{
-        font-size: 1.4rem;
+        font-size: 1.5rem;
     }
     
     #wanna{
@@ -243,3 +240,4 @@ ul{
   
     
 }
+
