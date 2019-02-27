@@ -79,6 +79,9 @@ body{
   display: block;
   text-align: left;
 }
+.topnav a:hover{
+    color:#01babc;
+}
 
 /*
 .topnav a:hover, .dropdown:hover .dropbtn {
