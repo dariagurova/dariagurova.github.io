@@ -113,13 +113,7 @@ body{
 
 @media screen and (max-width: 600px) {
     
-    .dropdown-content a:hover {
-        background-color: #ccffff;
-    }
-    .topnav a:hover, .dropbtn {
-        background-color: #555;
-    }
-    
+   
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
